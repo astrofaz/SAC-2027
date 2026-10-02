@@ -1,0 +1,3 @@
+model,random_effects,df,AIC,BIC,logLik
+Baseline,Player intercept,3,79186.2210128102,79210.791858003,-39590.1105064051
+Pressure-response,Player intercept + leverage slope,5,79153.9381093552,79194.8895180099,-39571.9690546776
